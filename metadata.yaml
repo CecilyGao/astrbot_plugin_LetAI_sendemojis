@@ -1,5 +1,5 @@
 name: letai_sendemojis # 这是你的插件的唯一识别名。
 desc: 智能分析AI对话内容并发送匹配表情包，支持情感识别、历史记录和多数据源，让聊天更生动有趣 # 插件简短描述
-version: v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: Heyh520 # 作者
-repo: https://github.com/Heyh520/astrbot_plugin_LetAI_sendemojis # 插件的仓库地址
+version: v0.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: Heyh520 & CecilyGao # 作者
+repo: https://github.com/CecilyGao/astrbot_plugin_LetAI_sendemojis # 插件的仓库地址
